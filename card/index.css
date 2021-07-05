@@ -12,12 +12,12 @@ body {
     width: 8em
 }
 
-.main-text {
+.title {
     font-size: 30px;
     font-family: Poppins;
 }
 
-.secondary-text {
+.description {
     font-size: 16px;
     font-family: Poppins;
 }
